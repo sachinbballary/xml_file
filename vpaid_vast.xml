@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                                                                                                                                             
+
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+    <Ad id="moat_ad">
+        <InLine>
+            <AdSystem>2.0</AdSystem>
+            <AdTitle>[OFFER_TITLE_ENC]</AdTitle>
+                <Impression></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>[DURATION_VAST_ENC]</Duration>
+                        <TrackingEvents>
+                        <Tracking event="progress" offset="00:00:02"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=2sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+                        <Tracking event="progress" offset="00:00:05"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=5sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+                        <Tracking event="progress" offset="00:00:10"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=10sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+                        </TrackingEvents> 
+                        <MediaFiles>
+                             <MediaFile type="application/javascript" apiFramework="VPAID" height="[HEIGHT]" width="[WIDTH]" delivery="progressive"> <![CDATA[https://d2h452d9fuy6ob.cloudfront.net/1520502587.mp4]]> </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+                    
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
+
