@@ -14,7 +14,7 @@
 <Icons>
 <Icon program="AdChoices" width="250" height="50" xPosition="50" yPosition="100" duration="00:00:14" offset="00:00:02">
 <StaticResource creativeType="image/jpg">
-<![CDATA[https://cdn4.iconfinder.com/data/icons/smileys-for-fun/128/smiley__10-512.png]]>
+<![CDATA[https://images-eu.ssl-images-amazon.com/images/I/41wypM8cKeL._AC_US160_.jpg]]>
 </StaticResource>
 <IconClicks>
 <IconClickThrough>
@@ -30,7 +30,7 @@
 </Icon>
 <Icon program="AdChoices" width="150" height="100" xPosition="50" yPosition="250" duration="00:00:13" offset="00:00:01">
 <StaticResource creativeType="image/jpg">
-<![CDATA[https://cdn4.iconfinder.com/data/icons/smileys-for-fun/128/smiley__10-512.png]]>
+<![CDATA[https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png]]>
 </StaticResource>
 </Icon>
 </Icons>
