@@ -18,14 +18,14 @@
 </StaticResource>
 <IconClicks>
 <IconClickThrough>
-<![CDATA[http://iconprovider.com/info]]>
+<![CDATA[http://www.google.com/]]>
 </IconClickThrough>
 <IconClickTracking>
-<![CDATA[http://iconprovider.com/click.gif]]>
+<![CDATA[https://www.pokkt.com/]]>
 </IconClickTracking>
 </IconClicks>
 <IconViewTracking>
-<![CDATA[http://iconprovider.com/view.gif]]>
+<![CDATA[https://www.facebook.com/]>
 </IconViewTracking>
 </Icon>
 <Icon program="AdChoices" width="150" height="50" xPosition="150" yPosition="100" duration="00:00:13" offset="00:00:01">
