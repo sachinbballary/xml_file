@@ -21,14 +21,14 @@
 <![CDATA[http://www.google.com/]]>
 </IconClickThrough>
 <IconClickTracking>
-<![CDATA[https://www.pokkt.com/]]>
+<![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^CreativeView.Linear.220674743~0~0~1~0~0~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]>
 </IconClickTracking>
 </IconClicks>
 <IconViewTracking>
 <![CDATA[https://www.facebook.com/]]>
 </IconViewTracking>
 </Icon>
-<Icon program="AdChoices" width="150" height="50" xPosition="150" yPosition="250" duration="00:00:13">
+<Icon program="AdChoices11" width="150" height="50" xPosition="150" yPosition="250" duration="00:00:13">
 <StaticResource creativeType="image/jpg">
 <![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lA2AfE0R10TKhgYRmZxEBXa7GOF_VPHGKzenlBQIc-3CtcOcww]]>
 </StaticResource>
