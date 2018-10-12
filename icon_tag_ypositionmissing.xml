@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?><VAST version="3.0" xmlns:MM="http://api.mediamind.com/V1/DataContracts">
+<Ad id="19352806">
+<InLine>
+<AdSystem><![CDATA[MediaMind]]></AdSystem>
+<AdTitle><![CDATA[H&amp;S_Connect_Connect_DrL30s_640x360_mobilepreroll_Nov16_tID]]></AdTitle>
+<Description>
+<![CDATA[H&amp;S_Connect_Connect_DrL30s_640x360_mobilepreroll_Nov16_tID]]>
+</Description>
+<Impression id="Impression"><![CDATA[http://bs.serving-sys.com/Serving?cn=display&c=24&pl=VAST&optOut=0&pos=5261&c=24&ai=39904724&pluid=0&ord=5518431235027772011&dg=7554381&sdg=11607068&ta=-1&sessionid=8503934774648817246&pcp=&vurl=&ebaddid=&ebappname=&ebappid=&ebmblat=12.9706&ebmblong=77.6002]]>
+</Impression>
+<Creatives>
+<Creative id="39904724" AdID="39904724" sequence="1">
+<Linear>
+<Icons>
+<Icon program="AdChoices" width="250" height="50" xPosition="450" yPosition="400" duration="00:00:13" offset="00:00:05">
+<StaticResource creativeType="image/jpg">
+<![CDATA[http://www.keralagiftdelivery.com/images/gifts/G20101.jpg]]>
+</StaticResource>
+<IconClicks>
+<IconClickThrough>
+<![CDATA[http://www.google.com/]]>
+</IconClickThrough>
+<IconClickTracking>
+<![CDATA[https://www.pokkt.com/]]>
+</IconClickTracking>
+</IconClicks>
+<IconViewTracking>
+<![CDATA[https://www.facebook.com/]]>
+</IconViewTracking>
+</Icon>
+<Icon program="AdChoices11" width="150" height="50" xPosition="150" duration="00:00:13" offset="00:00:01">
+<StaticResource creativeType="image/jpg">
+<![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lA2AfE0R10TKhgYRmZxEBXa7GOF_VPHGKzenlBQIc-3CtcOcww]]>
+</StaticResource>
+</Icon>
+</Icons>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^CreativeView.Linear.220674743~0~0~1~0~0~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="creativeView"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^adstart~0~0~1~0~2~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="start"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebVideoStarted~0~0~1~0~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^eb25Per_Played~0~0~1~0~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="midpoint"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^eb50Per_Played~0~0~1~0~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^eb75Per_Played~0~0~1~0~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="complete"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebVideoFullPlay~0~0~1~0~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="mute"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebVideoMute~0~0~1~1~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="unmute"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebVideoUnmute~0~0~1~1~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="pause"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebVideoPause~0~0~1~1~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^ebFSStart~0~0~1~1~1~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="progress" offset="00:00:02"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=2sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+<Tracking event="progress" offset="00:00:05"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=5sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+<Tracking event="progress" offset="00:00:10"><![CDATA[http://sg-tracker.pokkt.com/api/VideoEventTracker?birthday=&country=India&app_version=1.0&device_model=&categoryIab=&city=Bengaluru&app_bundle_name=com.pokkt.IN&latitude=0.0&screen=Default&skip=-1&language=en&device_type=iPad&creative_id=-1&platform=ios&device_name=ios&eap=PT_EAP&mac_address=&appId=cc41e865391d6ea371b18aff27cc10e6&exdi=&sdk_version=7.3.0&adv_id=572&state=Karnataka&deal_id=&carrier_name=BSNL&brand=Apple&campaign_id=6971&opt_userid=&timestamp=1538722830444&longitude=0.0&device_id=&connection_type=WIFI&appName=&ip=117.249.172.7&os_version=11.4&sex=&limitedTracking=1&advertisingID=B69CB468-9A01-4A6E-8809-D4E0388F6300&partner_param=&vc=0.0&offer_id=15578&token=9b597e347c9815fc730d3f7693f73f83&ad_id=15578&user_id=0&track_id=7da7b59d-bf5c-4fac-bd7d-a3d03c66ccc4&marketing_name=&channel_id=3017&encodedPubParams=&event=10sec_tracker&sessionId=[POKKT_SESSION_ID]&videoPlaybackStatus=[VIDEO_PLAYBACK_STATUS]&]]></Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[http://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=39904724~~0^Click.Linear.220674743~0~1~1~1~0~220674744~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246&rtu=$$http://www.lazada.co.id/beli-perawatan-rambut/head-shoulders?utm_source=PGMC&utm_medium=hns&utm_term=preroll&utm_content=pok&utm_campaign=id_hns_connect_ivideo_nov16_mobile$$]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="220674745" height="360" width="640" bitrate="417" type="video/x-flv" delivery="progressive" maintainAspectRatio="true" scalable="true"><![CDATA[https://ds.serving-sys.com/BurstingRes/Site-43748/Type-12/b4356840-808a-4d4b-b236-eead3409f457.flv]]></MediaFile>
+<MediaFile id="220674746" height="360" width="640" bitrate="467" type="video/webm" delivery="progressive" maintainAspectRatio="true" scalable="true"><![CDATA[https://ds.serving-sys.com/BurstingRes/Site-43748/Type-28/e1761210-5685-4efd-b5a9-2f2306aa41d2.webm]]></MediaFile>
+<MediaFile id="220674744" height="360" width="640" bitrate="485" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true"><![CDATA[https://d2h452d9fuy6ob.cloudfront.net/1520502587.mp4]]></MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative id="39904724" AdID="39904724" sequence="1">
+<CompanionAds>
+</CompanionAds>
+</Creative>
+</Creatives><Extensions><Extension><CustomTracking>
+<Tracking event="skip"><![CDATA[http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=isi&pl=VAST&interactionsStr=39904724~~0^ebSkip~0~0~1~0~2~~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+<Tracking event="engagedView" offset="00:00:30.000"><![CDATA[http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=isi&pl=VAST&interactionsStr=39904724~~0^ebEngagedView~0~0~1~0~2~~0&pos=5261&ebRandom=5518431235027772011&dg=7554381&ta=-1&sessionid=8503934774648817246]]></Tracking>
+</CustomTracking>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
