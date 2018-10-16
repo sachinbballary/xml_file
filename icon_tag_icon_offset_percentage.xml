@@ -28,9 +28,9 @@
 <![CDATA[https://www.facebook.com/]]>
 </IconViewTracking>
 </Icon>
-<Icon program="AdChoices11" width="150" height="50" xPosition="150" yPosition="100" duration="00:00:13" offset="20%">
+<Icon program="AdChoices11" width="150" height="50" xPosition="150" yPosition="100" duration="00:00:25" offset="20%">
 <StaticResource creativeType="image/jpg">
-<![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lA2AfE0R10TKhgYRmZxEBXa7GOF_VPHGKzenlBQIc-3CtcOcww]]>
+<![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNoP_2cA8zb_kRZzcUuLOyoJ0nftqRgid4RqwskKykXbDpqkbXw]]>
 </StaticResource>
 </Icon>
 </Icons>
