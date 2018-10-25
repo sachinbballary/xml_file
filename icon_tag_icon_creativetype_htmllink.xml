@@ -28,7 +28,7 @@
 <![CDATA[https://www.facebook.com/]]>
 </IconViewTracking>
 </Icon>
-<Icon program="AdChoices" width="150" height="50" xPosition="150" yPosition="100" duration="00:00:10" offset="00:00:02">
+<Icon program="AdChoices11" width="150" height="50" xPosition="150" yPosition="100" duration="00:00:10" offset="00:00:02">
 <StaticResource creativeType="image/jpg">
 <![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lA2AfE0R10TKhgYRmZxEBXa7GOF_VPHGKzenlBQIc-3CtcOcww]]>
 </StaticResource>
