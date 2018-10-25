@@ -13,13 +13,13 @@
 <Linear>
 <Icons>
 <Icon program="AdChoices" width="250" height="50" xPosition="250" yPosition="200" duration="00:00:13" offset="00:00:05">
-<StaticResource creativeType="text/html">
+<HTMLResource creativeType="text/html">
 <![CDATA[<html>
 <body>
 <h1>This is a Test HTML ICON with data</h1>
 </body>
 </html>]]>
-</StaticResource>
+</HTMLResource>
 <IconClicks>
 <IconClickThrough>
 <![CDATA[http://www.google.com/]]>
