@@ -3,7 +3,7 @@
 <Wrapper>
 <AdSystem version="1">Pokkt</AdSystem>
 <VASTAdTagURI>
-https://raw.githubusercontent.com/sachinbballary/xml_file/master/Progress_tracker.xml?time=[TIMESTAMP]&cache=[CACHEBUSTING]&transaction=[TRANSACTIONID]&placement=[PLACEMENTTYPE]&adtypee=[ADTYPE]&universaladid=[UNIVERSALADID]&ifa=[IFA]&ifatype=[IFATYPE]&clientua=[CLIENTUA]&serverua=[SERVERUA]&deviceua=[DEVICEUA]&serverside=[SERVERSIDE]&deviceip=[DEVICEIP]&latlong=[LATLONG]&bundle=[APPBUNDLE]&omid=[OMIDPARTNER]&capability=[PLAYERCAPABILITIES]&clickType=[CLICKTYPE]&playerState=[PLAYERSTATE]&inventoryState=[INVENTORYSTATE]&playerSize=[PLAYERSIZE]&adplayhead=[ADPLAYHEAD]&asseturi=[ASSETURI]&adservingid=[ADSERVINGID]&limited=[LIMITADTRACKING]&regulations=[REGULATIONS]&gdpr=[GDPRCONSENT]
+https://raw.githubusercontent.com/sachinbballary/xml_file/master/Progress_tracker.xml?time=[TIMESTAMP]&cache=[CACHEBUSTING]&transaction=[TRANSACTIONID]&placement=[PLACEMENTTYPE]&adtypee=[ADTYPE]&universaladid=[UNIVERSALADID]&ifa=[IFA]&ifatype=[IFATYPE]&clientua=[CLIENTUA]&serverua=[SERVERUA]&deviceua=[DEVICEUA]&serverside=[SERVERSIDE]&deviceip=[DEVICEIP]&latlong=[LATLONG]&bundle=[APPBUNDLE]&omid=[OMIDPARTNER]&capability=[PLAYERCAPABILITIES]&clickType=[CLICKTYPE]&playerState=[PLAYERSTATE]&inventoryState=[INVENTORYSTATE]&playerSize=[PLAYERSIZE]&adplayhead=[ADPLAYHEAD]&asseturi=[ASSETURI]&adservingid=[ADSERVINGID]&limited=[LIMITADTRACKING]&regulations=[REGULATIONS]&gdpr=[GDPRCONSENT]&vastversion=[VASTVERSIONS]&apiframe=[APIFRAMEWORKS]&extensions=[EXTENSIONS]&verificationvendors=[VERIFICATIONVENDORS]&mediamime=[MEDIAMIME]
 </VASTAdTagURI>
 </Wrapper>
 </Ad>
