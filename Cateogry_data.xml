@@ -1,0 +1,10 @@
+<VAST version="4.0">
+<Ad id="15578">
+<Wrapper>
+<AdSystem version="1">Pokkt</AdSystem>
+<VASTAdTagURI>
+https://raw.githubusercontent.com/sachinbballary/xml_file/master/Progress_tracker.xml?time=[TIMESTAMP]&cache=[CACHEBUSTING]&transaction=[TRANSACTIONID]&placement=[PLACEMENTTYPE]&adtypee=[ADTYPE]&universaladid=[UNIVERSALADID]&ifa=[IFA]&ifatype=[IFATYPE]&clientua=[CLIENTUA]&serverua=[SERVERUA]&deviceua=[DEVICEUA]&serverside=[SERVERSIDE]&deviceip=[DEVICEIP]&latlong=[LATLONG]&bundle=[APPBUNDLE]&omid=[OMIDPARTNER]&capability=[PLAYERCAPABILITIES]&clickType=[CLICKTYPE]&playerState=[PLAYERSTATE]&inventoryState=[INVENTORYSTATE]&playerSize=[PLAYERSIZE]&adplayhead=[ADPLAYHEAD]&asseturi=[ASSETURI]&adservingid=[ADSERVINGID]&limited=[LIMITADTRACKING]&regulations=[REGULATIONS]&gdpr=[GDPRCONSENT]
+</VASTAdTagURI>
+</Wrapper>
+</Ad>
+</VAST>
