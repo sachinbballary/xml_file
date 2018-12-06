@@ -2,7 +2,7 @@
 <Ad id="15578">
 <Wrapper>
 <AdSystem version="1">Pokkt</AdSystem>
-<VASTAdTagURI>https://raw.githubusercontent.com/sachinbballary/xml_file/master/Progress_tracker.xml?time=[TIMESTAMP]
+<VASTAdTagURI>https://raw.githubusercontent.com/sachinbballary/xml_file/master/Progress_tracker.xml
 </VASTAdTagURI>
 <Creatives>
 <Creative sequence="1" AdID="16517">
