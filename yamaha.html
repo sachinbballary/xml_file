@@ -1,0 +1,73 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Showcase: Yamaha R3</title>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="" />
+
+	<link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/endcards/css/r15_style.css">
+	<style type="text/css">
+		@-moz-document url-prefix() {
+		    .social-logo-wrapper { -webkit-clip-path: url("#clip-shape");  clip-path: url("#clip-shape"); }
+		}
+	</style>
+	<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/endcards/js/jquery.js"></script>
+	<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/endcards/js/core.js"></script>
+</head>
+<body>
+<div class="wrapper" >
+
+<div style="height: 100%; cursor: pointer;" onclick="window.location.href='http://www.yamaha-motor.co.th/automotive/product.php/type/street/title/Yamaha-YZF-R15-2016'">
+
+	<h1>
+		<a href="http://www.yamaha-motor.co.th/automotive/product.php/type/street/title/Yamaha-YZF-R15-2016"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/logo.png"></a>
+	</h1>
+	<h2><a href="http://www.yamaha-motor.co.th/automotive/product.php/type/street/title/Yamaha-YZF-R15-2016"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/r15_title.png"></a></h2>
+	
+	<div class="bike">
+		<a href="http://www.yamaha-motor.co.th/automotive/product.php/type/street/title/Yamaha-YZF-R15-2016">
+			<img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/r15_bike.png" class="normalscreen">
+			<img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/r15_bike-wide.png" class="widescreen">
+		</a>
+    </div>
+	
+</div>
+
+	<div class="button-wrapper">
+		<div class="social-block">
+			<h5>www.yamaha-motor.co.th</h5>
+			<div class="social-block-inner social-logo-wrapper">
+				<a href="https://www.facebook.com/YamahaApps" onclick="sendevent(57)" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/fb.png"></a>
+	            <a href="https://www.instagram.com/yamahasocietythailand/" onclick="sendevent(58)" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/instagram.png"></a>
+	            <a href="https://www.youtube.com/user/THAIYAMAHAOFFICIAL" onclick="sendevent(59)" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/youtube.png"></a>
+			</div>
+	    	<p>Yamaha Society Thailand</p>
+		</div>
+		<!-- <a href="http://maps.google.com/maps?q=12.9136110,77.6286010" class="shop-btn" onclick="sendevent(60)" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/store.png"></a> -->
+		<a href="http://maps.google.com/?q=yamaha+stores+near+me" class="shop-btn" onclick="sendevent(60)" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/endcards/img/store.png"></a>
+	</div>
+	<!-- #button-wrapper -->
+	
+	<svg width="0" height="0">
+		<defs>
+			<clipPath id="clip-shape" clipPathUnits="objectBoundingBox">
+				<polygon points="0 0, 1 0, 1 1, 0.95 1, 0.95 0.95, 0.05 0.95, 0.05 1, 0 1" />
+			</clipPath>
+		</defs>
+	</svg>
+</div>
+<script type="text/javascript">
+		function sendevent(event_id){ 
+		var url = "http://vdopokktfeed.pokkt.com/api/VideoEventTracker?appId=a2717a45b835b5e9f50284a38d62a74e&offer_id=6830&track_id="+(Math.floor((Math.random() * 10000000000000000)))+"&timestamp="+Date.now()+"&event="+event_id;
+			var xhttp = new XMLHttpRequest();
+			xhttp.open("GET", url, true);
+			xhttp.send();
+		}
+		</script>
+</body>
+
+</html>
